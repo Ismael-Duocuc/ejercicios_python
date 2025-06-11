@@ -12,6 +12,8 @@ sumar(2,5)"""
 
 saludar("juan carlos")"""
 
+#holi nuevecito 
+print ("cambio")
 #tercer ejercicio
 num=int(input("ingrese un numero para determinar si es par o impar:"))
 
